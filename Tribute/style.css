@@ -1,0 +1,43 @@
+.main-container{
+    text-align: center;
+}
+
+body{
+    background:url(./images/brownpaper.jpeg);
+    height: 100%
+}
+.heading{
+    display: block;
+    font-family: "Playwrite NO", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.image{
+    display: inline-block;
+    margin: 15px;
+    border: 2px solid;
+    height: fit-content;
+    
+}
+.tribute{
+    display: inline-block;
+    width: 60%;
+    margin: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.both{
+    display: flex;
+    justify-content: space-between;
+}
+#facts{
+    display: block;
+    margin-left: 45%;
+    margin-top: 0%;
+    font-weight:normal;
+}
+
+
+    
+
